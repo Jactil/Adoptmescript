@@ -18,5 +18,5 @@ By triggering the script, an egg in the player's inventory is cloned, providing 
 7. Pet Spawner:
 • Functionality: Allows the user to spawn any pet in the game at will. The player can choose from a list of available pets and instantly add them to their inventory.
 
-TikTok: gratnahr
+discord: sarah04368
 Feel free to dm if you need any help
